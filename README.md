@@ -20,7 +20,7 @@ Muistiinpanosovellus on yksinkertainen, mutta toimiva sovellus, joka mahdollista
 
    Voit kloonata projektin GitHubista tai ladata sen zip-tiedostona:
    ```bash
-   git clone https://github.com/username/muistiinpanosovellus.git
+   git clone https://github.com/pentinmaki/muistiinpanosovellus.git
 
 Vaihtoehtoisesti voit ladata ZIP-tiedoston GitHubista ja purkaa sen haluamaasi kansioon.
 
